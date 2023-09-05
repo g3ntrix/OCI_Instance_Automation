@@ -28,8 +28,6 @@ cd OCI_Instance_Automation
 pip install -r requirements.txt
 ```
 
-> **Note**: To create a requirements.txt file, you can use the `pip freeze > requirements.txt` command in your terminal. This will generate a text file with the names and versions of all the Python modules and packages installed in your virtual environment. Alternatively, you can manually write the names and versions of the modules and packages that you use in your project, such as `oci==2.52.0` or `tensorflow==2.3.1`, in a text file and name it requirements.txt.
-
 > **Note**: Running check.sh in a tmux session is recommended for ease of use. Tmux is a terminal multiplexer that allows you to run multiple terminal sessions in one window. You can install tmux using `sudo apt install tmux` on Linux or `brew install tmux` on Mac. To start a tmux session, run `tmux new -s session_name` in your terminal, where session_name is the name of your session. To detach from a tmux session, press Ctrl+B and then D. To attach to a tmux session, run `tmux attach -t session_name` in your terminal.
 
 ## Usage
