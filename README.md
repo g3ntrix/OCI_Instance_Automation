@@ -15,8 +15,9 @@ This repository contains Python and Shell scripts that help automate the process
 
 ```bash
 git clone https://github.com/your_username/OCI_Instance_Automation.git
+
 cd OCI_Instance_Automation
-pip install -r requirements.txt
+
 ```
 
 ## Usage
