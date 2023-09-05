@@ -1,3 +1,4 @@
+
 # OCI Instance Automation
 
 ## Introduction
@@ -10,26 +11,13 @@ This repository contains Python and Shell scripts that help automate the process
 2. Oracle Cloud Infrastructure CLI
 3. OCI Python SDK
 
-## Code Example
-
-The repository includes Python code with functions for IP management on OCI instances. Below is an example:
-
-\`\`\`python
-# Import required modules
-import oci
-import time
-...
-\`\`\`
-
-> **Note**: The complete code can be found in the repository.
-
 ## Installation
 
-\`\`\`bash
+```bash
 git clone https://github.com/your_username/OCI_Instance_Automation.git
 cd OCI_Instance_Automation
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Usage
 
@@ -59,3 +47,10 @@ Feel free to contribute. Please open an issue first for major changes.
 ## License
 
 [Mozilla Public License 2.0](LICENSE.md)
+```
+
+I hope this helps you edit your markdown readme. For more information on how to write markdown, you can check out these resources:
+
+- [Basic Syntax | Markdown Guide]
+- [Markdown Guide]
+- [Relative links in READMEs - GitHub Docs]
